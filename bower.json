@@ -24,7 +24,8 @@
     "jquery": "^2.2.0",
     "isotope-horizontal": "^2.0.0",
     "isotope": "^2.2.2",
-    "bettertext.css": "^1.0.4"
+    "bettertext.css": "^1.0.4",
+    "upup": "^0.2.0"
   },
   "resolutions": {
     "get-size": "^2.0.2",

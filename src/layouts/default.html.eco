@@ -101,5 +101,6 @@
     </nav>
     <% end %>
     <%- @partial('scripts') %>
+    <%- @partial('upup') %>
 </body>
 </html>

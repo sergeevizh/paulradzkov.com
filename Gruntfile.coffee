@@ -18,6 +18,10 @@ module.exports = (grunt) ->
 			main:
 				files: [
 					'./src/raw/vendor/likely/likely.js':'./bower_components/Likely/release/likely.js'
+					'./src/raw/upup.min.js':'./bower_components/upup/dist/upup.min.js'
+					'./src/raw/upup.min.js.map':'./bower_components/upup/dist/upup.min.js.map'
+					'./src/raw/upup.sw.min.js':'./bower_components/upup/dist/upup.sw.min.js'
+					'./src/raw/upup.sw.min.js.map':'./bower_components/upup/dist/upup.sw.min.js.map'
 				]
 
 		less:
