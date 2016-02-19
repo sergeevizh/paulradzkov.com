@@ -112,6 +112,8 @@ module.exports = (grunt) ->
 						'**/*.{html,css,js,xml,svg,ttf}'
 						'!google*.html'
 						'!yandex*.html'
+						'!upup.min.js'
+						'!upup.sw.min.js'
 					]
 					dest: 'out/'
 					rename: (dest, src) ->
